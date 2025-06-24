@@ -1,3 +1,4 @@
+# sum the digit enetr by user
 number = int(input("Enter a number: "))
 sum = 0
 while number > 0:
